@@ -1,0 +1,644 @@
+2018-06-29 11:14:13,438 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2018-06-29 11:14:32,678 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-06-29 11:14:33,058 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2018-06-29 11:14:33,499 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2018-06-29 11:14:58,797 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-06-29 11:48:11,403 [HttpRunnerManager:151] [operation:add_case_data] [INFO]- µƒ”√¿˝ÃÌº”≥…π¶: {'test': {'request': {'method': 'POST', 'url': ''}, 'name': 'µƒ'}}
+2018-06-29 11:48:48,076 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 13:34:18,047 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:18,057 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:18,268 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:18,270 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:18,276 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:18,278 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:18,296 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:18,299 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:18,352 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:18,364 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:18,370 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:18,383 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:18,578 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/favicon.ico
+2018-07-02 13:34:21,442 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:21,445 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:21,449 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:21,484 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:21,487 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:21,492 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:21,508 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:21,516 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:21,519 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:21,531 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:21,540 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:21,545 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:22,424 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/css-index.css
+2018-07-02 13:34:22,426 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/logo.png
+2018-07-02 13:34:22,429 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:22,465 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:22,466 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:22,468 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:34:22,480 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/custom.js
+2018-07-02 13:34:22,483 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2018-07-02 13:34:22,490 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/loading.GIF
+2018-07-02 13:34:22,498 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/jquery.sticky.js
+2018-07-02 13:34:22,506 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/wow.min.js
+2018-07-02 13:34:22,509 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/owl.carousel.min.js
+2018-07-02 13:35:30,488 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 13:48:28,352 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 13:53:41,984 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:/HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:/HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:/HttpRunnerManager\ApiManager\utils\common.py", line 439, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 13:53:49,147 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:/HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:/HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:/HttpRunnerManager\ApiManager\utils\common.py", line 439, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 13:54:04,117 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 13:54:07,459 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 13:57:09,661 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 13:57:11,824 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:04:39,039 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:04:44,830 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:04:54,650 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/test_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 379, in test_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 432, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+2018-07-02 14:06:02,565 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/config_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 413, in config_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 432, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+2018-07-02 14:24:14,328 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:24:16,921 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:27:17,963 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:27:44,949 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:27:47,983 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 475, in parse
+    compile_func = self.tags[command]
+KeyError: 'endif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 323, in project_list
+    return render_to_response('project_list.html', manage_info)
+  File "E:\Python35\lib\site-packages\django\shortcuts.py", line 27, in render_to_response
+    content = loader.render_to_string(template_name, context, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\Python35\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 144, in get_template
+    template, origin = self.find_template(template_name)
+  File "E:\Python35\lib\site-packages\django\template\engine.py", line 126, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "E:\Python35\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 160, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 198, in compile_nodelist
+    return parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 290, in do_extends
+    nodelist = parser.parse()
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 483, in parse
+    raise self.error(token, e)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 481, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\Python35\lib\site-packages\django\template\loader_tags.py", line 233, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 477, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\Python35\lib\site-packages\django\template\base.py", line 533, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 176: 'endif', expected 'endblock'. Did you forget to register or load this tag?
+2018-07-02 14:28:16,257 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:28:18,192 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:37:16,138 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 311, in project_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 442, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 14:37:20,563 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/project_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 311, in project_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 442, in set_filter_session
+    'belong_project': request.session['project'],
+  File "E:\Python35\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+KeyError: 'project'
+2018-07-02 14:37:24,899 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:37:26,773 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:37:30,837 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 170, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 210, in case_info_logic
+    test = kwargs.pop('test')
+KeyError: 'test'
+2018-07-02 14:37:33,775 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/add_case/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 170, in add_case
+    msg = case_info_logic(**testcase_info)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 210, in case_info_logic
+    test = kwargs.pop('test')
+KeyError: 'test'
+2018-07-02 14:39:25,603 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:39:27,918 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:43:42,829 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:43:44,932 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:47:52,728 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:47:54,981 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:55:50,890 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:55:53,036 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2018-07-02 14:57:17,859 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /api/module_list/1/
+Traceback (most recent call last):
+  File "E:\Python35\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\Python35\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\HttpRunnerManager\HttpRunnerManager\activator.py", line 15, in process
+    result = fun(request, index) if index else fun(request)
+  File "D:\HttpRunnerManager\ApiManager\views.py", line 345, in module_list
+    filter_query = set_filter_session(request)
+  File "D:\HttpRunnerManager\ApiManager\utils\common.py", line 433, in set_filter_session
+    request.session['module'] = ModuleInfo.objects.get(id=request.POST.get('module')).module_name
+  File "E:\Python35\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 394, in get
+    clone = self.filter(*args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 836, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "E:\Python35\lib\site-packages\django\db\models\query.py", line 854, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1253, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1277, in _add_q
+    split_subq=split_subq,
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1215, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "E:\Python35\lib\site-packages\django\db\models\sql\query.py", line 1085, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 18, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "E:\Python35\lib\site-packages\django\db\models\lookups.py", line 68, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "E:\Python35\lib\site-packages\django\db\models\fields\__init__.py", line 947, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: '”√¿˝_quant_login_out(µ«»Îµ«≥ˆ)'
+2018-07-02 14:59:50,449 [HttpRunnerManager:78] [views:log_out] [INFO]- yinquanwangÕÀ≥ˆ
+2018-07-02 14:59:52,333 [HttpRunnerManager:45] [views:login] [INFO]- yinquanwang µ«¬º≥…π¶
+2019-07-26 11:19:34,375 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/favicon.ico
+2019-07-26 11:20:15,856 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-26 11:21:28,335 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 11:32:13,467 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:32:13,531 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:32:22,178 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-26 11:32:22,441 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:32:22,527 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:32:34,136 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:32:34,162 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:33:31,218 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:33:31,274 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:34:26,156 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-26 11:34:26,421 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:34:26,501 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:34:30,352 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:34:30,392 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:35:27,702 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:35:27,736 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.min.css
+2019-07-26 11:38:14,777 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 11:38:14,813 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 11:38:22,595 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 11:38:22,624 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 11:38:49,519 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 11:40:32,406 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 11:40:32,448 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:03:12,179 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 12:03:12,235 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/favicon.ico
+2019-07-26 12:03:43,888 [django.request:118] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /aip/login/
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/python3/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/www/webapp/HttpRunnerManager/HttpRunnerManager/activator.py", line 10, in process
+    app = __import__("%s.views" % app)
+ModuleNotFoundError: No module named 'aip'
+2019-07-26 12:26:43,356 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 12:31:19,518 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/iconfont/fonts/icomoon.ttf
+2019-07-26 12:31:32,404 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-26 12:31:32,674 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:31:32,677 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:31:34,557 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:31:34,584 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:31:34,725 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:31:34,752 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:33:28,281 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:33:28,297 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:33:28,315 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:34:16,438 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:34:16,457 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:34:16,539 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:34:35,830 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:34:35,914 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:34:35,936 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:36:16,770 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:36:16,780 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:36:16,782 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:36:16,784 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:36:16,786 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:36:17,035 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:36:17,037 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:36:17,039 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:36:21,468 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:36:21,490 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:36:23,665 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:36:23,667 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:36:23,669 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:36:23,670 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:36:23,672 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:36:23,771 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:36:23,773 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:36:23,775 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:36:25,643 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:36:25,646 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:36:25,647 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:36:25,649 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:36:25,651 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:36:25,784 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:36:25,786 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:36:25,787 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:36:51,962 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:36:51,981 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:36:52,435 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:36:52,437 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:36:52,439 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:36:52,440 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:36:52,442 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:36:52,631 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:36:52,634 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:36:52,635 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:36:59,668 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:36:59,685 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:37:03,997 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:37:03,999 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:37:04,001 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:37:04,003 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:37:04,005 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:37:04,477 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:37:04,480 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:37:04,482 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:37:07,928 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:37:07,943 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:37:09,532 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:37:09,534 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:37:09,536 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:37:09,538 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:37:09,540 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:37:09,657 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/amazeui.css
+2019-07-26 12:37:09,659 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/common.css
+2019-07-26 12:37:09,661 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/css/admin.css
+2019-07-26 12:37:12,270 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/app.js
+2019-07-26 12:37:12,284 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/js/commons.js
+2019-07-26 12:44:00,150 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/iconfont/fonts/icomoon.ttf
+2019-07-26 12:44:12,921 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-26 12:44:15,020 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:44:15,034 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:44:15,101 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:44:29,050 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:44:29,129 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:44:29,142 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:46:08,646 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:46:08,669 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:46:08,696 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:46:27,032 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:46:27,048 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:46:27,094 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:48:11,217 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:48:11,241 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:48:11,258 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:48:27,930 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:48:27,947 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:48:27,990 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:48:34,939 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 12:48:34,972 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 12:48:35,017 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:49:21,328 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 12:51:55,232 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 13:00:23,156 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 13:00:23,202 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 13:00:23,254 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 13:01:16,434 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-26 13:01:17,034 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 13:01:17,352 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 13:01:17,452 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 13:02:55,485 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 13:13:42,943 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 13:13:42,976 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 13:13:43,087 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 13:13:58,505 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 13:13:58,529 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 13:13:58,657 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 13:15:11,926 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 13:16:23,165 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 13:19:49,242 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 13:42:17,502 [django.request:93] [base:get_response] [WARNING]- Not Found: /cache/global/img/gs.gif
+2019-07-26 15:01:43,945 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 15:17:53,782 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 15:26:02,840 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 15:34:08,503 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 15:34:08,543 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff
+2019-07-26 15:34:08,645 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.ttf
+2019-07-26 15:35:58,088 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/fonts/fontawesome-webfont.woff2
+2019-07-26 16:47:16,163 [HttpRunnerManager:62] [operation:add_project_data] [INFO]- È°πÁõÆÊ∑ªÂä†ÊàêÂäüÔºö{'project_name': 'zmc', 'responsible_name': 'lan', 'test_user': 'lan', 'dev_user': 'zhang', 'publish_app': 'zmc', 'simple_desc': 'ÂæÆ‰ø°ÂÖ¨‰ºóÂè∑', 'other_desc': ''}
+2019-07-26 16:48:01,611 [HttpRunnerManager:110] [operation:add_module_data] [INFO]- Ê®°ÂùóÊ∑ªÂä†ÊàêÂäüÔºö{'module_name': 'ulogin', 'test_user': 'lan', 'simple_desc': 'ÂÖ¨‰ºóÂè∑ÁôªÈôÜÊ®°Âùó', 'other_desc': '', 'belong_project': <ProjectInfo: ProjectInfo object (2)>}
+2019-07-26 16:48:15,185 [HttpRunnerManager:125] [operation:add_module_data] [INFO]- Ê®°ÂùóÊõ¥Êñ∞ÊàêÂäüÔºö{'module_name': 'ulogin', 'test_user': 'lan', 'simple_desc': 'ÂÖ¨‰ºóÂè∑ÁôªÈôÜÊ®°Âùó', 'other_desc': ''}
+2019-07-26 17:02:30,256 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 17:07:28,737 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-26 17:24:18,768 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 18:28:22,607 [HttpRunnerManager:154] [operation:add_case_data] [INFO]- ÂÖ¨‰ºóÂè∑ÁôªÈôÜ/Ê≥®ÂÜåÊé•Âè£Áî®‰æãÊ∑ªÂä†ÊàêÂäü: {'test': {'request': {'url': 'https://zm.yzou.cn/proxy/us/login/1.0/', 'method': 'POST', 'data': {'mobile': '15688656658', 'valicode': '888888', 'notPrompt': '1', 'token': '', 'regChannel': '3', 'registerUrl': 'http://zm-3.yzwill.cn?action=login&scholarship=&inviteId=&regOrigin=', 'bindType': '1', 'inviteToken': '', 'scholarship': '', 'idCard': '', 'regOrigin': '', 'channelId': '', 'sign': '', 'timeStamp': ''}, 'headers': {'appType': '2', 'frontTrace': ''}}, 'name': 'ÂÖ¨‰ºóÂè∑ÁôªÈôÜ/Ê≥®ÂÜåÊé•Âè£'}}
+2019-07-26 19:19:19,156 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 20:49:25,392 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 20:51:54,015 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 21:15:49,025 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-26 21:24:12,275 [django.request:93] [base:get_response] [WARNING]- Not Found: /robots.txt
+2019-07-26 22:39:48,078 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2019-07-26 22:39:48,081 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/main_bg.png
+2019-07-26 22:39:48,596 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/favicon.ico
+2019-07-26 22:40:05,156 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2019-07-26 22:40:05,158 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/main_bg.png
+2019-07-26 22:40:08,399 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/favicon.ico
+2019-07-26 22:40:11,541 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2019-07-26 22:40:11,543 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/main_bg.png
+2019-07-26 22:40:25,205 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-26 22:55:21,820 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2019-07-26 22:55:21,829 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/main_bg.png
+2019-07-26 22:55:24,068 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2019-07-26 22:55:24,070 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/main_bg.png
+2019-07-26 22:55:30,834 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/bg.jpg
+2019-07-26 22:55:30,836 [django.request:93] [base:get_response] [WARNING]- Not Found: /static/assets/img/main_bg.png
+2019-07-26 23:01:41,018 [HttpRunnerManager:55] [views:login] [INFO]- lan ÁôªÂΩïÊàêÂäü
+2019-07-27 02:17:03,277 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 02:27:24,589 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 02:40:44,123 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 03:56:42,205 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 03:59:06,918 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 07:12:08,111 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 07:12:09,734 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 07:26:57,174 [django.request:93] [base:get_response] [WARNING]- Not Found: /robots.txt
+2019-07-27 07:55:22,772 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 08:23:13,333 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 08:59:13,345 [django.request:93] [base:get_response] [WARNING]- Not Found: /
+2019-07-27 09:15:15,073 [django.request:93] [base:get_response] [WARNING]- Not Found: /
